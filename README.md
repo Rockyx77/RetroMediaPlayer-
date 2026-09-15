@@ -6,7 +6,7 @@ A tiny native Windows media controller overlay written entirely in x86 Assembly.
 >
 > Instead, I decided writing a Windows media controller in Assembly was a better use of my time.
 >
-> So... here we are. 😭
+> So... here we are. 
 
 ## Features
 
